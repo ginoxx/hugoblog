@@ -1,6 +1,6 @@
-baseURL = "http://ginopelliccia.netlify.com"
+baseURL = "https://ginopelliccia.netlify.com"
 languageCode = "en-us"
-title = "Minimal"
+title = "Gino Pelliccia"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
