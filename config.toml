@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://ginopelliccia.netlify.com"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
@@ -6,8 +6,8 @@ disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "Gino Pelliccia"
+    description = "Cloud Architect"
     githubUsername = "#"
     accent = "red"
     showBorder = true
